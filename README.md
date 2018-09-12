@@ -1,6 +1,6 @@
 # Tutorial: Hello World Smart Contract
 
-_(c) 2018 coderfi last updated 2018-08-11_
+Author: [Fairiz Azizi](https://github.com/coderfi)
 
 This tutorial will demonstrate deploying a HelloWorld smart contract to an Ethereum development node.
 
