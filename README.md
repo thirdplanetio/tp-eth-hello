@@ -218,3 +218,9 @@ The next demo will show what you could do to make a contract usable in a decentr
           - is properly configured in your Truffle configuration file (truffle.js)
 
   Make sure `ganache-cli` is running.
+
+# References
+
+* [tp-dapp-sample](https://github.com/coderfi/tp-dapp-sample) dApp Tutorial
+* [Solidity v0.4.24](https://solidity.readthedocs.io/en/v0.4.24)
+* [Ganache](https://truffleframework.com/ganache)
