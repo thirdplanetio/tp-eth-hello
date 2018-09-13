@@ -9,5 +9,6 @@ export PATH=$(npm config get prefix)/bin:$PATH
 
 npm install -g truffle ganache-cli
 
-npm --version
+echo
 truffle version
+ganache-cli --version
